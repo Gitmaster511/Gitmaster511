@@ -82,20 +82,12 @@
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 
-<!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#9091](https://github.com/python/typeshed/issues/9091) in [python/typeshed](https://github.com/python/typeshed)
-2. 💪 Opened PR [#9091](https://github.com/python/typeshed/pull/9091) in [python/typeshed](https://github.com/python/typeshed)
-3. 🗣 Commented on [#9090](https://github.com/python/typeshed/issues/9090) in [python/typeshed](https://github.com/python/typeshed)
-4. 🎉 Merged PR [#77](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/77) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+<!--START_SECTION:activity--
 5. ❗️ Closed issue [#29](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/29) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
     <!--END_SECTION:activity-->
     </details>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-# 📊 GitHub Stats:
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph --
 ![](https://github-readme-stats.vercel.app/api?username=Gitmaster511&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gitmaster511&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitmaster511&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
