@@ -69,10 +69,10 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AdiKalavala24&theme=transparent)
 [![](https://github-readme-streak-stats.herokuapp.com?user=AdiKalavala24&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=AdiKalavala24&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-![](https://github-readme-stats.vercel.app/api?username=AdiKalavala24&theme=codeSTACKr)
-[![](https://github-readme-streak-stats.herokuapp.com?user=AdiKalavala24&theme=git-dark&hide_border=true)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=Gitmaster511&theme=codeSTACKr)
+[![](https://github-readme-streak-stats.herokuapp.com?user=Gitmaster511&theme=git-dark&hide_border=true)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=AdiKalavala24&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Gitmaster511&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Favorite Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
