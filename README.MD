@@ -19,43 +19,30 @@
 ### 🌐 Websites
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    
-    
+   
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    
     
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     
-    
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    
     
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="JavaScript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     
-    
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="TypeScript" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></a>
-    
     
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="JavaScript" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"></a>
     
-    
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="JavaScript" src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white"></a>
-    
     
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="JavaScript" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
     
-    
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    
     
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     
-    
     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
     
-    
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-    
     
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     
