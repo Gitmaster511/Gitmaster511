@@ -7,7 +7,11 @@
 
 <p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    
+    
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="SwiftUI + UIKIT" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
+    
+    
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 </p>
 
@@ -37,7 +41,7 @@
 <p> 
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="PyTorch" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="PyTorch" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
 "></a>
