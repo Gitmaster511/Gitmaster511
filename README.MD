@@ -42,7 +42,7 @@
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>  
-    <a href="#"><img alt="Pandas"src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>  "></a>
+    <a href="#"><img alt="Pandas"src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
 
 
 </p>
